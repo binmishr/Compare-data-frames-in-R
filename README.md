@@ -28,8 +28,6 @@ all_equal(data1, data2)
 
 Now you can see the function returned as TRUE, indicates both data sets are equal.
 
-QQ-plots in R: Quantile-Quantile Plots-Quick Start Guide »
-
 Case2:-
 
 Now we can try comparedf function from library arsenal.
